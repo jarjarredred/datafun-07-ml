@@ -1,6 +1,8 @@
 # datafun-07-ml Summer 1 - module 7 - Machine Learning
+by Jarred Gastreich, June 2025
 
 # Step 1: Initialized project
+Set up venv and installed packages
 
 ## CheatSheet: Managing Virtual Environment
 
