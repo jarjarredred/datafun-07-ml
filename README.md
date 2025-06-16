@@ -1,4 +1,6 @@
-# datafun-04-eda Summer 1 - module 4
+# datafun-07-ml Summer 1 - module 7 - Machine Learning
+
+# Step 1: Initialized project
 
 ## CheatSheet: Managing Virtual Environment
 

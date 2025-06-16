@@ -319,4 +319,13 @@ seaborn
 # uvicorn   
 
 # For request validation and serialization in FastAPI (5-10 MB)
-# pydantic     
+# pydantic    
+
+# Module 7 required packages
+jupyterlab
+numpy
+pandas
+pyarrow
+matplotlib
+seaborn
+scipy
