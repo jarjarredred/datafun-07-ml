@@ -4,6 +4,10 @@ by Jarred Gastreich, June 2025
 # Step 1: Initialized project
 Set up venv and installed packages
 
+# Step 2: Explored example project from textbook
+
+# Step 3: Installed sklearn
+
 ## CheatSheet: Managing Virtual Environment
 
 For **Windows PowerShell** (adjust commands if using Mac/Linux):
