@@ -322,17 +322,30 @@ seaborn
 # pydantic    
 
 # Module 7 required packages
+beautifulsoup4
+dweepy
+geopy
+imageio
+ipykernel
 jupyterlab
+matplotlib
+nltk
 numpy
 pandas
-pyarrow
-matplotlib
-seaborn
-scipy
-pymongo
-pyspark
-tensorflow
-wordcloud
-numpy
-scipy
+prospector
 scikit-learn
+scipy
+seaborn
+spacy
+textatistic
+textblob
+pip
+setuptools
+wheel
+loguru
+pyttsx3
+ipython
+jupyter
+# ipwidgets
+scikit-learn
+ipykernel
