@@ -322,6 +322,7 @@ seaborn
 # pydantic    
 
 # Module 7 required packages
+scipy
 beautifulsoup4
 dweepy
 geopy
@@ -333,8 +334,6 @@ nltk
 numpy
 pandas
 prospector
-scikit-learn
-scipy
 seaborn
 spacy
 textatistic
@@ -347,5 +346,4 @@ pyttsx3
 ipython
 jupyter
 # ipwidgets
-scikit-learn
 ipykernel
